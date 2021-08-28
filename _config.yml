@@ -10,6 +10,8 @@ yourname: Zhou Zang  ## put your name
 title: 'Graduating Student from Beijing Normal University'  ## your title
 location: Beijing , China
 
+## Social Profiles
+researchgate: https://www.researchgate.net/profile/Zhou-Zang  ## your facebook account url
 
 
 # Update all the sections by editing the files inside _includes folder.
